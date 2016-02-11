@@ -1,0 +1,22 @@
+_repo: William-Cobbett-A-Biography-in-Two-Volumes-Vol-2_49845
+creator:
+  author:
+    agent_name: Smith, Edward
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '45585'
+    url: http://www.gutenberg.org/2009/agents/45585
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Smith_%28biographer%29
+description: ''
+gutenberg_issued: '2015-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cobbett, William 1763-1835'
+title: "William Cobbett\r\nA Biography in Two Volumes, Vol. 2"
+url: http://www.gutenberg.org/ebooks/49845
