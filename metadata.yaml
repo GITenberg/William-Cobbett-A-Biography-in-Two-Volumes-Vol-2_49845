@@ -1,4 +1,8 @@
 _repo: William-Cobbett-A-Biography-in-Two-Volumes-Vol-2_49845
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49845-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Edward
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45585
     wikipedia: https://en.wikipedia.org/wiki/Edward_Smith_%28biographer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49845#William-Cobbett-A-Biography-in-Two-Volumes-Vol-2
 gutenberg_issued: '2015-09-01'
 gutenberg_type: Text
 identifiers:
